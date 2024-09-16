@@ -20,5 +20,7 @@
 include:
   - board: nrfmicro_13
     shield: lily58_left
+    snippet: zmk-usb-logging
   - board: nrfmicro_13
     shield: lily58_right
+    snippet: zmk-usb-logging
